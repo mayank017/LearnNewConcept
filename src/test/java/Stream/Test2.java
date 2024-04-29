@@ -4,7 +4,8 @@ public class Test2 {
     public static void main(String[] args) {
         int i = 1;
         int j = 10;
-        int m = 12;
-        System.out.println(i + j + m);
+        int k = 11;
+        int l = 12;
+        System.out.println(i + j + k + l);
     }
 }
